@@ -3,7 +3,7 @@
 - https://github.com/firebase/firebase-android-sdk/issues/5467
 
 ### Summary
-- Using a worker class runs into a complation error of "class file for com.google.common.util.concurrent.ListenableFuture not found".
+- Using a worker class runs into a complation error of `class file for com.google.common.util.concurrent.ListenableFuture not found`.
 
 ### Prerequisite:
 - add `google-services.json` file in app
